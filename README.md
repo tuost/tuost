@@ -23,15 +23,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
-
-# Use Browser
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-
-
-
-
 #
 ![tuost's github stats](https://github-readme-stats.vercel.app/api?username=tuost&show_icons=true)
 [![tuost's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tuost&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tuost)
